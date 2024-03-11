@@ -45,4 +45,4 @@
 ## Connect Four Mini-Game
 <h4>HTML, CSS, JavaScript</h4>
 <p> Created a replica of the Connect Four game. Used HTML, CSS and JavaScript to incorporate the game logic, as well as the DOM to update HTML elements.</p>
-<h4>Check it out here: <a href="https://github.com/milenap11/portfolio">Connect Four</a></h4>
+<h4>Check it out here: <a href="https://milenap11.github.io/mini-game/">Connect Four</a></h4>
