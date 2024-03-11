@@ -31,6 +31,8 @@
 <h4>HTML, CSS, JavaScript, MongoDB, Express, React, Node.js</h4>
 <p> A MERN-Stack CRUD application of my design that uses third-party APIs. CPA Finder allows people to find CPAs and functions as a rating and comparison database.</p>
 <h4>Check it out here: <a href="https://cpa-finder-390658509291.herokuapp.com/">CPA Finder</a></h4>
+<img width="1000" alt="Mockup" src="https://github.com/milenap11/milenap11/assets/152201737/4a9dcec0-8adf-4a1d-9940-bf82cf0dcdef">
+
 
 ## heythere
 <h4>HTML, CSS, JavaScript, PostgreSQL, Python, Django</h4>
