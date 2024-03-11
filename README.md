@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milena</h1>
-<h3 align="center">An enthusiastic front-end developer and UX/UI designer</h3>
+<h3 align="center">An enthusiastic developer and UX/UI designer</h3>
 
 - 🔭 I’m currently working on my portfolio
 
