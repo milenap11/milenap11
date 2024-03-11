@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milena</h1>
 <h3 align="center">An enthusiastic frontend developer and UX/UI designer</h3>
 
-- 🔭 I’m currently working on [CPA Finder](https://github.com/milenap11/cpa-finder)
+- 🔭 I’m currently working on my portfolio
 
 - 👨‍💻 All of my projects are available at [www.milenapupillo.com](www.milenapupillo.com)
 
