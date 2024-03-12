@@ -27,25 +27,25 @@
 
 <h3 align="left">Projects:</h3>
 
-## CPA Finder
+## <a href="https://github.com/milenap11/cpa-finder">CPA Finder</a>
 <h4>HTML, CSS, JavaScript, MongoDB, Express, React, Node.js</h4>
 <p> A MERN-Stack CRUD application of my design that uses third-party APIs. CPA Finder allows people to find CPAs and functions as a rating and comparison database.</p>
 <h4>Check it out here: <a href="https://cpa-finder-390658509291.herokuapp.com/">CPA Finder</a></h4>
 <img width="1233" alt="Mock1" src="https://github.com/milenap11/milenap11/assets/152201737/cd1991f3-172e-4045-96c2-4d43dedf0879">
 
-## heythere
+## <a href="https://github.com/milenap11/heythere">heythere</a>
 <h4>HTML, CSS, JavaScript, PostgreSQL, Python, Django</h4>
 <p> Collaboratively built a full-stack web app that uses Python-based Django Web Framework. heythere is a one-stop platform for employees to conveniently access all their work-related needs.</p>
 <h4>Check it out here: <a href="https://heythere-hr-f3d27d8a0e61.herokuapp.com/accounts/login/?next=/events/t">heythere</a></h4>
 <img width="1233" alt="Mock2" src="https://github.com/milenap11/milenap11/assets/152201737/4b492dfe-dde5-4300-a7c8-8ed7d868e94b">
 
-## Nomad Nest
+## <a href="https://github.com/milenap11/nomad-nest">Nomad Nest</a> 
 <h4>HTML, CSS, JavaScript, MongoDB, Express, Node.js</h4>
 <p> A MEN-Stack CRUD application of my design. Nomad Nest is a site created to assist digital nomads.</p>
 <h4>Check it out here: <a href="https://nomad-nest-3b3484e95287.herokuapp.com/">Nomad Nest</a></h4>
 <img width="1233" alt="Mock3" src="https://github.com/milenap11/milenap11/assets/152201737/e5e1f8f7-ddbc-4c04-8283-ab9a49e685af">
 
-## Connect Four Mini-Game
+## <a href="https://github.com/milenap11/portfolio">Connect Four Mini-Game</a>
 <h4>HTML, CSS, JavaScript</h4>
 <p> Created a replica of the Connect Four game. Used HTML, CSS and JavaScript to incorporate the game logic, as well as the DOM to update HTML elements.</p>
 <h4>Check it out here: <a href="https://milenap11.github.io/mini-game/">Connect Four</a></h4>
