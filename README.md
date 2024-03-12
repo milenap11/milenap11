@@ -35,7 +35,7 @@
 
 ## <a href="https://github.com/milenap11/heythere">heythere</a>
 <h4>HTML, CSS, JavaScript, PostgreSQL, Python, Django</h4>
-<p> Collaboratively built a full-stack web app that uses Python-based Django Web Framework. heythere is a one-stop platform for employees to conveniently access all their work-related needs.</p>
+<p> Collaboratively built a full-stack web app that uses Python-based Django Web Framework. heythere is a one-stop platform for employees to conveniently access all their work-related needs, such as view company’s announcements, events, documents, find everyday tools to perform duties, submit and keep track of PTO (paid time-off) requests and, on the employer side, admins will also have a convenient way of managing the database of their employees, events, as well as approving time off.</p>
 <h4>Check it out here: <a href="https://heythere-hr-f3d27d8a0e61.herokuapp.com/accounts/login/?next=/events/t">heythere</a></h4>
 <img width="1233" alt="Mock2" src="https://github.com/milenap11/milenap11/assets/152201737/4b492dfe-dde5-4300-a7c8-8ed7d868e94b">
 
