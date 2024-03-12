@@ -41,7 +41,7 @@
 
 ## <a href="https://github.com/milenap11/nomad-nest">Nomad Nest</a> 
 <h4>HTML, CSS, JavaScript, MongoDB, Express, Node.js</h4>
-<p> A MEN-Stack CRUD application of my design. Nomad Nest is a site created to assist digital nomads. Pick a location and Nomad Nest will help you getting settled in your new home away from home. The site will provide and book recommended stays, assist with visa requirements, offer information about transportation, co-working spaces and more. Explore our list of destinations and find reviews posted by digital nomads. Are you ready to buckle up?</p>
+<p> A MEN-Stack CRUD application of my design. Nomad Nest is a site created to assist digital nomads. Pick a location and Nomad Nest will help you getting settled in your new home away from home. The site will provide and book recommended stays, assist with visa requirements, offer information about transportation, co-working spaces and more. Explore the list of destinations and find reviews posted by digital nomads. Are you ready to buckle up?</p>
 <h4>Check it out here: <a href="https://nomad-nest-3b3484e95287.herokuapp.com/">Nomad Nest</a></h4>
 <img width="1233" alt="Mock3" src="https://github.com/milenap11/milenap11/assets/152201737/e5e1f8f7-ddbc-4c04-8283-ab9a49e685af">
 
