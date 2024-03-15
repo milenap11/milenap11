@@ -2,7 +2,7 @@
 <h3 align="center">A naturally curious developer and UX/UI designer</h3>
 
 
-- 🎨 All of my projects are available at [www.milenapupillo.com](www.milenapupillo.com)
+- 🎨 All of my projects are available at <a href="https://www.milenapupillo.com">www.milenapupillo.com</a>
 
 - ✨ My other interests are **traveling ✈️, spending time in the outdoors 🌲, arts 🎭, music 🎶 and investing 💰**
 
